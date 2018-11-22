@@ -1,4 +1,4 @@
-# Exercício de Programação - Inteligência Artificial, USP ( EACH )
+# Exercício de Programação - Inteligência Artificial, USP-EACH
 
 O intuito desse trabalho é aplicar o conhecimento de arvores de busca para resolver o problema de achar a comida do Packman.
 Dado o labirinto do jogo, usou-se diversos algoritmos de busca para achar o melhor caminho entre o ponto inicial e a ponto destino.
